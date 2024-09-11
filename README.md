@@ -3,7 +3,7 @@ Frontend Developer with 5+ years of successful software delivery experience. Hig
 
 💻 Programming Languages: JavaScript, TypeScript
 
-🔧 Technologies & Tools: React, Redux, Webpack, Babel, Styled Components, Storybook, Lighthouse, Jest, Mocha, React Testing Library, Cypress, GraphQL, SQL (PostgreSQL), Node.js, Express.js, Rest APIs,  Git / GitHub / Gitlab, HTML5, CSS3
+🔧 Technologies & Tools: React, Redux, Webpack, Babel, Styled Components, Storybook, Lighthouse, Jest, React Testing Library, Cypress, GraphQL, SQL (PostgreSQL), Node.js, Express.js, Rest APIs,  Git / GitHub / Gitlab, HTML5, CSS3
 
 ☁️ Cloud: AWS S3, AWS EC2
 
