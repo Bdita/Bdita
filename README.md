@@ -1,16 +1,14 @@
-## Hi there 👋
+### 👨‍💻 About Me: 
+Frontend Developer with 5+ years of successful software delivery experience. Highly skilled in React, Javascript, Typescript, HTML5/CSS3. Interested in Web Performance and Web Security.  Rebuilt a SAAS application’s front end with full user experience redesign, enabling successful product launch and adoption. Delivered major version upgrades enhancing user interfaces and performance, contributing to product growth.
 
-<!--
-**Bdita/Bdita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 My personal motto: "Programming is not just creating software; it's about creating opportunities. For ourselves and the world."
 
-Here are some ideas to get you started:
+💻 Programming Languages: JavaScript, TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technologies & Tools: React, Redux, Webpack, Babel, Styled Components, Storybook, Lighthouse, Jest, Mocha, React Testing Library, Cypress, GraphQL, SQL (PostgreSQL), Node.js, Express.js, Rest APIs,  Git / GitHub / Gitlab, HTML5, CSS3
+
+☁️ Cloud: AWS S3, AWS EC2
+
+📊 Methodologies: SCRUM, Agile
+
+🌐 Interests: Web Performance, Web Security
